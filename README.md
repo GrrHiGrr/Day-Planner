@@ -2,6 +2,8 @@
 
 The purpose of the Day Planner is to help the user become more organized in their day-to-day life.
 
+https://grrhigrr.github.io/Day-Planner/
+
 Features include:
 
 1. Ability for users to input daily texts within the text window.
